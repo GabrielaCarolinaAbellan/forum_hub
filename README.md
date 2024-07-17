@@ -17,7 +17,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - Spring Security
 - JWT (JSON Web Token)
 - Maven
-- MySQL
+- PostgreSQL
 - Hibernate
 - Flyway
 - Lombok
